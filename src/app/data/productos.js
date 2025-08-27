@@ -69,6 +69,6 @@ const productos = [
     "precio": 69000,
     "descripcion": "Yogur griego, granola, frutas y té.",
     "tema": "Fitness",
-    "img": "/src/assets/desayuno2.svg"
+    "img": "/src/assets/desayuno2.svg "
   }
 ]
